@@ -4,7 +4,7 @@ dill==0.2.9
 kiwisolver==1.0.1
 matplotlib==3.0.3
 multiprocess==0.70.7
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 pathos==0.2.3
 pox==0.2.5
